@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\abhi\\codeforces\\contests\\div2#825\\B.cpp","tests":[{"id":1665413593919,"input":"4\n1\n343\n2\n4 2\n3\n4 2 4\n4\n1 1 1 1","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\abhi\\codeforces\\contests\\div2#825\\B.cpp","group":"local","local":true}

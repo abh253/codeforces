@@ -1,0 +1,1 @@
+{"name":"Local: coin_comb1","url":"d:\\abhi\\codeforces\\practice\\dp\\coin_comb1.cpp","tests":[{"id":1644220190522,"input":"3 9\n2 3 5","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\abhi\\codeforces\\practice\\dp\\coin_comb1.cpp","group":"local","local":true}

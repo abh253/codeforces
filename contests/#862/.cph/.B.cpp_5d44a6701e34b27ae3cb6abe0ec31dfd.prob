@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\abhi\\codeforces\\contests\\#862\\B.cpp","tests":[{"id":1680446488200,"input":"4\n3\ncba\n4\nacac\n5\nabbcb\n4\naaba","output":""},{"id":1680447392886,"input":"1\n5\naabdc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\abhi\\codeforces\\contests\\#862\\B.cpp","group":"local","local":true}
